@@ -1,0 +1,4 @@
+Two-Storey House Study image set
+
+house-01.png to house-04.png: rendered views
+house-process-01.png to house-process-05.png: Blender viewport/wireframe views

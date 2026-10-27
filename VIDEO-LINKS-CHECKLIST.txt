@@ -1,0 +1,15 @@
+OVERALLSPACE PORTFOLIO — VIDEO LINKS
+
+Chair — Project 001:
+  File: projects/project-01.html
+  Google Drive folder link already inserted.
+
+House — Project 002:
+  File: projects/project-02.html
+  Find the video button and replace href="#" with the house Google Drive URL.
+
+Smartphone — Project 003:
+  File: projects/project-03.html
+  Google Drive folder link already inserted.
+
+If you want a video or folder to be publicly viewable, set its Google Drive sharing to "Anyone with the link" / Viewer. Then upload the changed file to GitHub.

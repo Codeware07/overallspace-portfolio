@@ -1,0 +1,6 @@
+Google Drive project links
+Chair: https://drive.google.com/drive/folders/1tPwRYvMHk5mCTQqIWgvNYRrWtx1V9WUB?usp=sharing
+Smartphone: https://drive.google.com/drive/folders/1XNxKpBZ2zB9MT5Ud82sYafLrHoH-i07M?usp=sharing
+House: add later in projects/project-02.html by replacing href="#".
+
+These are folder links, not necessarily direct video-file links. Make sure access settings allow your intended viewers.
